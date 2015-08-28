@@ -1,0 +1,74 @@
+.UI {
+	background-color: #2F2342;
+	min-height: 1000px;
+	
+}
+
+.top {
+	color: white;
+	background-color: rgba(0,0,0,0.6);
+	padding: 40px;
+	font-size: 50px;
+	font-family: ubuntu;
+	display: block;
+}
+
+.api {
+	font-family: monospace;
+	font-size: 15px;
+	float: right;
+	padding-top: 40px;
+}
+
+.me {
+	font-family: monospace;
+	font-size: 15px;
+	float: left;
+	padding-top: 40px;
+}
+.quote-area {
+	min-height: 300px;
+}
+
+.quote {
+	color: #7ca0e5;
+	margin: 10px;
+	font-size: 50px;
+	font-family: play;
+	
+}
+
+.author {
+	color: #e42f45;
+	margin: 5px;
+	font-size: 30px;
+	font-family: cursive;
+}
+
+.next {
+	background-color: black;
+	color: #eeeeee;
+	width: 300px;
+}
+
+.next:hover {
+	color: #7ca0e5; 
+}
+.seen {
+	background-color: rgba(0,0,0,0.6);
+}
+
+.seen-area h4 {
+	color: #b42b3f;
+	font-size: 50px;
+	font-family: ubuntu;
+	padding: 20px;
+}
+.tweet-button {
+	width: 300px;
+}
+
+.buttons li {
+	display: inline;
+	text-align: center;
+}
