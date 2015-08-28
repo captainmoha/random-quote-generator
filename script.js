@@ -31,9 +31,3 @@ function xmlParser(response) {
 	$('.seen').append('<li>' + shownQuote + '</li>');
 }
 
-
-// Here are your new API credentials:
-
-// User ID: 4294
-// Token: eEP8dS8jAgLWPME1
-// Web Admin Password: FRNvywAY
